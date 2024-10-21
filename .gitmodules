@@ -1,3 +1,6 @@
 [submodule "frontend-breakable_toy_i-todoapp"]
 	path = frontend-breakable_toy_i-todoapp
 	url = https://github.com/EdwinSaucedoEncora/frontend-breakable_toy_i-todoapp.git
+[submodule "backend-breakable_toy_i-todoapp"]
+	path = backend-breakable_toy_i-todoapp
+	url = https://github.com/EdwinSaucedoEncora/backend-breakable_toy_i-todoapp.git
